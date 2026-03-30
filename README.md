@@ -1,6 +1,6 @@
 # Telemetry Data Conversion — Technical Project Report
 
-**Author:** Gowri Shankar
+**Author:** Gowri Shankar V
 **Programme:** Deloitte Job Simulation — Technical Assessment
 **Language:** Python 3
 **Document Type:** Technical Project Report
