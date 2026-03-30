@@ -138,4 +138,4 @@ The techniques applied — JSON processing, timestamp normalisation, schema flat
 
 ---
 
-*Gowri Shankar · Deloitte Job Simulation · Telemetry Conversion Assessment*
+*Gowri Shankar V· Deloitte Job Simulation · Telemetry Conversion Assessment*
